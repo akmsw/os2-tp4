@@ -1,4 +1,4 @@
-# Laboratorio Nº4 - Shared memory
+# Shared memory
 ## Introduction
 El presente es un trabajo práctico de laboratorio cuyo objetivo es el de diseñar una solución aplicando el paradigma de memoria distribuida, en lenguaje C, utilizando OpenMP.\
 Se debe desarrollar un algoritmo de reconocimiento de patrones en imágenes. Para ello, se proporciona una imagen monocromática en formato PNG y un cierto target deseado (en el mismo formato), a partir de los cuales se debe indicar las coordenadas donde se encuentra el target en la imagen en cuestión.\
